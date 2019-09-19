@@ -1,4 +1,5 @@
 Code Lab 2: PatchCamelyon (PCAM) Histopathological Cancer Detection 
+===
 
 These are the materials for the second code lab in Curae.ai's Deep Learning in Healthcare Workshop
 
@@ -15,4 +16,4 @@ Once we have trained the model to convergence, we will evaluate the model's perf
 
 **[2] Ehteshami Bejnordi et al. Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer. JAMA: The Journal of the American Medical Association, 318(22), 2199–2210. [doi:jama.2017.14585](https://doi.org/10.1001/jama.2017.14585)**
 
-**[3] B. S. Veeling's PCam Github repo: [https://github.com/basveeling/pcam]
+**[3] [B. S. Veeling's PCam Github repo](https://github.com/basveeling/pcam)**
