@@ -1,5 +1,7 @@
 load_data.py
 tb
+flow/*
+best_model
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
